@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ezcdlabs/pushq/releases/download/v0.0.1/git-pushq_0.0.1_windows_amd64.zip",
+            "bin": [
+                "git-pushq.exe"
+            ],
+            "hash": "48d710ad9c78bbc0648632da330b84adb0277d921cdb460c7e4ef171505acf52"
+        },
+        "arm64": {
+            "url": "https://github.com/ezcdlabs/pushq/releases/download/v0.0.1/git-pushq_0.0.1_windows_arm64.zip",
+            "bin": [
+                "git-pushq.exe"
+            ],
+            "hash": "f70793db5ee1a0172e41572217eea87b306697801fbd1d7ee8a284990a556ea6"
+        }
+    },
+    "homepage": "https://github.com/ezcdlabs/pushq",
+    "license": "MIT",
+    "description": "Serverless push queue for trunk-based development via git refs"
+}
