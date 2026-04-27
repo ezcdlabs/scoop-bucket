@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ezcdlabs/pushq/releases/download/v0.0.2/git-pushq_0.0.2_windows_amd64.zip",
+            "url": "https://github.com/ezcdlabs/pushq/releases/download/v0.0.3/git-pushq_0.0.3_windows_amd64.zip",
             "bin": [
                 "git-pushq.exe"
             ],
-            "hash": "c816d21e6f85a130f51817a6c6d0a2d01bd03e9294cdd658c6f1f3d3f74f71f5"
+            "hash": "82eb43a639fdd3f37b682d521b97de783446bb69ce1a3bb1fda61cfc07e17493"
         },
         "arm64": {
-            "url": "https://github.com/ezcdlabs/pushq/releases/download/v0.0.2/git-pushq_0.0.2_windows_arm64.zip",
+            "url": "https://github.com/ezcdlabs/pushq/releases/download/v0.0.3/git-pushq_0.0.3_windows_arm64.zip",
             "bin": [
                 "git-pushq.exe"
             ],
-            "hash": "2bc6348e9b5ac60ed862980be1eb3d6986ad20a9e32a84fe5431f711d7ef0391"
+            "hash": "8d0f11b26752967daabc4026eddaf17bcc10913cda5d145b7d6b3f73d7631641"
         }
     },
     "homepage": "https://github.com/ezcdlabs/pushq",
