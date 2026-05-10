@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ezcdlabs/clarity/releases/download/v0.1.0/git-clarity_0.1.0_windows_amd64.zip",
+            "bin": [
+                "git-clarity.exe"
+            ],
+            "hash": "ba9701a1521becb9c7229723079f5bcbc91d4bcdcfea8ef334d814d9cbe3d6c2"
+        },
+        "arm64": {
+            "url": "https://github.com/ezcdlabs/clarity/releases/download/v0.1.0/git-clarity_0.1.0_windows_arm64.zip",
+            "bin": [
+                "git-clarity.exe"
+            ],
+            "hash": "5481586c665d67f34b30e1c4f9028ae81fdb49125801a02da7307d118287cd4f"
+        }
+    },
+    "homepage": "https://github.com/ezcdlabs/clarity",
+    "license": "MIT",
+    "description": "Commit-centric pipeline status TUI for trunk-based development via git refs"
+}
