@@ -1,19 +1,19 @@
 {
-    "version": "0.16.0",
+    "version": "0.16.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ezcdlabs/clarity/releases/download/v0.16.0/git-clarity_0.16.0_windows_amd64.zip",
+            "url": "https://github.com/ezcdlabs/clarity/releases/download/v0.16.1/git-clarity_0.16.1_windows_amd64.zip",
             "bin": [
                 "git-clarity.exe"
             ],
-            "hash": "5b951d2e21be4c36b997062c2d124a3aea1bb6e81b5d6c1aca151ac11d0653a3"
+            "hash": "25a5b56769ce92fbeafbfb2b5db38f055e8594c4baf7cf0e467aa6f165cc37f5"
         },
         "arm64": {
-            "url": "https://github.com/ezcdlabs/clarity/releases/download/v0.16.0/git-clarity_0.16.0_windows_arm64.zip",
+            "url": "https://github.com/ezcdlabs/clarity/releases/download/v0.16.1/git-clarity_0.16.1_windows_arm64.zip",
             "bin": [
                 "git-clarity.exe"
             ],
-            "hash": "3a29c8505b5092ce500eee3516030325962918d3d7f14dbc6eedad056d14d4fe"
+            "hash": "ca0b7c332a901d73036235ad5938fd4bc221317d6a99fe8a6aa194f3b7e42264"
         }
     },
     "homepage": "https://github.com/ezcdlabs/clarity",
